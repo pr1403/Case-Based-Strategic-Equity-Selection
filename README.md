@@ -1,4 +1,4 @@
-# Case-Based-Strategic-Equity-Selection
+# Strategic-Portfolio-Optimisation
 # Equity Analysis Summary: Delphi, Groupon, Kellogg, Kinross
 
 ## Objective
