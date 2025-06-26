@@ -50,4 +50,3 @@
 ## Impact
 - Advised avoiding standalone exposure to high-volatility stocks like Groupon
 - Developed a robust portfolio framework using CAPM, Sharpe Ratio, and correlations
-- Improved model interpretability and reduced pricing errors by **23%** in high-volatility backtests
